@@ -18,6 +18,9 @@
 # Other screen sizes and ratios will require more trial-and-error.
 %define pixel_ratio 1.0
 
+# For building 17.1
+%define android_version_major 10
+
 %include droid-configs-device/droid-configs.inc
 %include patterns/patterns-sailfish-device-adaptation-starlte.inc
 %include patterns/patterns-sailfish-device-configuration-starlte.inc
