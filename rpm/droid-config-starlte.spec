@@ -4,7 +4,7 @@
 %define device starlte
 %define vendor samsung
 
-%define vendor_pretty SAMSUNG
+%define vendor_pretty Samsung
 %define device_pretty Galaxy S9
 
 # Community HW adaptations need this
